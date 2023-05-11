@@ -4,8 +4,9 @@
 ## CI Workflow
 For the examination, we need to pull the spring-gumball from the professor's repository (Lab 10) into the personal GitHub Repo as public.
 and we got to make a workflow under this repo
-![gradle-1](https://github.com/mujunyu520/spring-gumball-cicd/assets/60667298/e5677516-8cfc-4a01-88d6-b7c815befa39)
 
+
+![gradle-1](https://github.com/mujunyu520/spring-gumball-cicd/assets/60667298/5338fff0-c4c7-4ee5-ad4e-2cfac5144ce4)
 
 and make sure your building tool was raelly set up
 
